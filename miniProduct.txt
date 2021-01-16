@@ -1,7 +1,7 @@
 A small mini product to making THE Product look better.
 
 Stats:  This mini product should make the product seem at least 20% more useful.
-        This mini product should make the whole product seem at least 10% *better*!
+        This Mini Product should make the whole product seem at least 10% *better*!
 
 
 This concludes the Mini Product.
