@@ -4,4 +4,4 @@ Stats:  This mini product should make the product seem at least 20% more useful.
         This mini product should make the whole product seem at least 10% *better*!
 
 
-This concludes the mini product.
+This concludes the Mini Product.
